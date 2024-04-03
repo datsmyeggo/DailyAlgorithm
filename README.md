@@ -15,6 +15,9 @@
 |✔|Lv.3|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|동적계획법(Dynamic Programming)|
 |✔|Lv.3|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|탐욕법(Greedy)|
 |💗|Lv.3|[숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|?|
+|💗|Lv.3|[기지국설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|-|
+|💗|Lv.2|[영어끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|-|
+
 
 
 
