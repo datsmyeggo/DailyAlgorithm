@@ -17,6 +17,8 @@
 |💗|Lv.3|[숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|?|
 |💗|Lv.3|[기지국설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|-|
 |💗|Lv.2|[영어끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|-|
+|✔|Lv.2|[최댓갑과최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939))|-|
+
 
 
 
