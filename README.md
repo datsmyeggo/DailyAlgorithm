@@ -19,6 +19,8 @@
 |💗|Lv.2|[영어끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|-|
 |✔|Lv.2|[최댓갑과최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|-|
 |✔|Lv.3|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|해시(Hash)|
+|💗|Lv.3|[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|동적계획법(Dynamic Programming)|
+
 
 
 
