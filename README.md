@@ -20,6 +20,7 @@
 |✔|Lv.2|[최댓갑과최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|-|
 |✔|Lv.3|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|해시(Hash)|
 |💗|Lv.3|[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|동적계획법(Dynamic Programming)|
+|💗|Lv.3|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|다익스트라(Dijkstra)|
 
 
 
