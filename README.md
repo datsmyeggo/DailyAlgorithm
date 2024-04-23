@@ -22,9 +22,9 @@
 |💗|Lv.3|[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|동적계획법(Dynamic Programming)|
 |💗|Lv.3|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|다익스트라(Dijkstra)|
 |✔|Lv.2|[전화번호목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|해시(Hash)|
-|✅|Lv.2|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|-|
+|✔|Lv.2|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|-|
 |💗|Lv.2|[점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|-|
-
+|✔|Lv.2|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|동적계획법(Dynamic Programming)|
 
 
 
