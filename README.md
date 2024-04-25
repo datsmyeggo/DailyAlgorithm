@@ -25,7 +25,7 @@
 |✔|Lv.2|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|-|
 |💗|Lv.2|[점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|-|
 |✔|Lv.2|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|동적계획법(Dynamic Programming)|
-
+|✔|Lv.2|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|스택(Stack)|
 
 
 
