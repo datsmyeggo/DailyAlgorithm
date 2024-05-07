@@ -27,6 +27,7 @@
 |✔|Lv.2|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|동적계획법(Dynamic Programming)|
 |✔|Lv.2|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|스택(Stack)|
 |✔|Lv.2|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|-|
+|✔|D2|[두 개의 숫자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE&problemTitle=%EB%91%90+%EA%B0%9C%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=2&pageSize=10&pageIndex=1)|-|
 
 
 
