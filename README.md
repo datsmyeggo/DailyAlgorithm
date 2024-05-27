@@ -40,5 +40,5 @@
 |✔|D2|[최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=JAVA&select-1=2&pageSize=10&pageIndex=3)|-|
 |✔|D2|[달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=%EB%8B%AC%ED%8C%BD%EC%9D%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|-|
 |✔|Lv.2|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|해시(Hash)|
-|✔|Lv.2|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|스택|
-
+|✔|Lv.2|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|스택(Stack)|
+|✔|Lv.2|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|스택(Stack)|
