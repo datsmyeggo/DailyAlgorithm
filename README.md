@@ -42,3 +42,5 @@
 |✔|Lv.2|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|해시(Hash)|
 |✔|Lv.2|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|스택(Stack)|
 |✔|Lv.2|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|스택(Stack)|
+|✔|Lv.2|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|-|
+|✔|Lv.2|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|-|
