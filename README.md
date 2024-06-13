@@ -46,3 +46,4 @@
 |✔|Lv.2|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|-|
 |✔|Lv.2|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|-|
 |✔|Lv.2|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|-|
+|✔|Lv.2|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|동적프로그래밍(Dynamic Programming)|
