@@ -44,3 +44,4 @@
 |✔|Lv.2|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|스택(Stack)|
 |✔|Lv.2|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|-|
 |✔|Lv.2|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|-|
+|✔|Lv.2|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|-|
